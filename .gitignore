@@ -1,0 +1,8 @@
+# Ignore processed datasets
+data/processed/*.csv
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/

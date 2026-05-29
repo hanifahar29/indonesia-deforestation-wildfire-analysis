@@ -1,5 +1,5 @@
 # Ignore processed datasets
-data/processed/*.csv
+data/processed/wildfire_raw_merge.csv
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/

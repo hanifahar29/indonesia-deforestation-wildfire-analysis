@@ -1,0 +1,851 @@
+country,subnational1,year,gross_emissions_Mg_CO2e
+Indonesia,Aceh,2001,10876310
+Indonesia,Bali,2001,260474
+Indonesia,Bangka Belitung,2001,7031487
+Indonesia,Banten,2001,626102
+Indonesia,Bengkulu,2001,10203132
+Indonesia,Gorontalo,2001,2408462
+Indonesia,Jakarta Raya,2001,1007
+Indonesia,Jambi,2001,34140822
+Indonesia,Jawa Barat,2001,4819651
+Indonesia,Jawa Tengah,2001,1764777
+Indonesia,Jawa Timur,2001,2932386
+Indonesia,Kalimantan Barat,2001,49956846
+Indonesia,Kalimantan Selatan,2001,10697784
+Indonesia,Kalimantan Tengah,2001,42725073
+Indonesia,Kalimantan Timur,2001,27470245
+Indonesia,Kalimantan Utara,2001,19585127
+Indonesia,Kepulauan Riau,2001,958044
+Indonesia,Lampung,2001,5716765
+Indonesia,Maluku,2001,3093482
+Indonesia,Maluku Utara,2001,5319473
+Indonesia,Nusa Tenggara Barat,2001,1798670
+Indonesia,Nusa Tenggara Timur,2001,2796386
+Indonesia,Papua,2001,8864625
+Indonesia,Papua Barat,2001,4624840
+Indonesia,Riau,2001,145488037
+Indonesia,Sulawesi Barat,2001,11940612
+Indonesia,Sulawesi Selatan,2001,5684548
+Indonesia,Sulawesi Tengah,2001,12498223
+Indonesia,Sulawesi Tenggara,2001,10231719
+Indonesia,Sulawesi Utara,2001,3290821
+Indonesia,Sumatera Barat,2001,9083974
+Indonesia,Sumatera Selatan,2001,31438329
+Indonesia,Sumatera Utara,2001,20325216
+Indonesia,Yogyakarta,2001,45104
+Indonesia,Aceh,2002,6678064
+Indonesia,Bali,2002,189686
+Indonesia,Bangka Belitung,2002,5588009
+Indonesia,Banten,2002,1055833
+Indonesia,Bengkulu,2002,7576499
+Indonesia,Gorontalo,2002,5591703
+Indonesia,Jakarta Raya,2002,20
+Indonesia,Jambi,2002,37031009
+Indonesia,Jawa Barat,2002,2607003
+Indonesia,Jawa Tengah,2002,1153265
+Indonesia,Jawa Timur,2002,2729761
+Indonesia,Kalimantan Barat,2002,63100013
+Indonesia,Kalimantan Selatan,2002,13985772
+Indonesia,Kalimantan Tengah,2002,75327173
+Indonesia,Kalimantan Timur,2002,34198121
+Indonesia,Kalimantan Utara,2002,16726857
+Indonesia,Kepulauan Riau,2002,3086543
+Indonesia,Lampung,2002,5351655
+Indonesia,Maluku,2002,10240765
+Indonesia,Maluku Utara,2002,16823070
+Indonesia,Nusa Tenggara Barat,2002,1620679
+Indonesia,Nusa Tenggara Timur,2002,2669075
+Indonesia,Papua,2002,14215029
+Indonesia,Papua Barat,2002,12754323
+Indonesia,Riau,2002,174861442
+Indonesia,Sulawesi Barat,2002,8761565
+Indonesia,Sulawesi Selatan,2002,8514477
+Indonesia,Sulawesi Tengah,2002,23584166
+Indonesia,Sulawesi Tenggara,2002,10428574
+Indonesia,Sulawesi Utara,2002,5708514
+Indonesia,Sumatera Barat,2002,11049061
+Indonesia,Sumatera Selatan,2002,47317533
+Indonesia,Sumatera Utara,2002,19915984
+Indonesia,Yogyakarta,2002,16815
+Indonesia,Aceh,2003,8095293
+Indonesia,Bali,2003,116829
+Indonesia,Bangka Belitung,2003,3504184
+Indonesia,Banten,2003,167835
+Indonesia,Bengkulu,2003,5840849
+Indonesia,Gorontalo,2003,2077892
+Indonesia,Jakarta Raya,2003,120
+Indonesia,Jambi,2003,17864124
+Indonesia,Jawa Barat,2003,1419521
+Indonesia,Jawa Tengah,2003,512512
+Indonesia,Jawa Timur,2003,2011434
+Indonesia,Kalimantan Barat,2003,37951641
+Indonesia,Kalimantan Selatan,2003,10861601
+Indonesia,Kalimantan Tengah,2003,150850624
+Indonesia,Kalimantan Timur,2003,23431957
+Indonesia,Kalimantan Utara,2003,11893266
+Indonesia,Kepulauan Riau,2003,1018327
+Indonesia,Lampung,2003,3028937
+Indonesia,Maluku,2003,2984547
+Indonesia,Maluku Utara,2003,6252779
+Indonesia,Nusa Tenggara Barat,2003,990208
+Indonesia,Nusa Tenggara Timur,2003,2235754
+Indonesia,Papua,2003,8719584
+Indonesia,Papua Barat,2003,5907639
+Indonesia,Riau,2003,57755932
+Indonesia,Sulawesi Barat,2003,5116530
+Indonesia,Sulawesi Selatan,2003,4194496
+Indonesia,Sulawesi Tengah,2003,13961744
+Indonesia,Sulawesi Tenggara,2003,9388288
+Indonesia,Sulawesi Utara,2003,2283888
+Indonesia,Sumatera Barat,2003,6996854
+Indonesia,Sumatera Selatan,2003,19722445
+Indonesia,Sumatera Utara,2003,17451908
+Indonesia,Yogyakarta,2003,4442
+Indonesia,Aceh,2004,11641792
+Indonesia,Bali,2004,217965
+Indonesia,Bangka Belitung,2004,11525949
+Indonesia,Banten,2004,836646
+Indonesia,Bengkulu,2004,18450466
+Indonesia,Gorontalo,2004,4759596
+Indonesia,Jakarta Raya,2004,678
+Indonesia,Jambi,2004,92770309
+Indonesia,Jawa Barat,2004,2231652
+Indonesia,Jawa Tengah,2004,2159950
+Indonesia,Jawa Timur,2004,4292545
+Indonesia,Kalimantan Barat,2004,77932009
+Indonesia,Kalimantan Selatan,2004,25956385
+Indonesia,Kalimantan Tengah,2004,117063391
+Indonesia,Kalimantan Timur,2004,43015684
+Indonesia,Kalimantan Utara,2004,26804882
+Indonesia,Kepulauan Riau,2004,2473175
+Indonesia,Lampung,2004,5759314
+Indonesia,Maluku,2004,5160650
+Indonesia,Maluku Utara,2004,9000739
+Indonesia,Nusa Tenggara Barat,2004,2775787
+Indonesia,Nusa Tenggara Timur,2004,2622722
+Indonesia,Papua,2004,14274968
+Indonesia,Papua Barat,2004,9470052
+Indonesia,Riau,2004,309367921
+Indonesia,Sulawesi Barat,2004,11488684
+Indonesia,Sulawesi Selatan,2004,11968500
+Indonesia,Sulawesi Tengah,2004,29011928
+Indonesia,Sulawesi Tenggara,2004,29455478
+Indonesia,Sulawesi Utara,2004,5129888
+Indonesia,Sumatera Barat,2004,19759772
+Indonesia,Sumatera Selatan,2004,70888335
+Indonesia,Sumatera Utara,2004,33313011
+Indonesia,Yogyakarta,2004,34137
+Indonesia,Aceh,2005,17557814
+Indonesia,Bali,2005,147626
+Indonesia,Bangka Belitung,2005,10126953
+Indonesia,Banten,2005,316081
+Indonesia,Bengkulu,2005,9284731
+Indonesia,Gorontalo,2005,3066971
+Indonesia,Jakarta Raya,2005,161
+Indonesia,Jambi,2005,63356141
+Indonesia,Jawa Barat,2005,1540414
+Indonesia,Jawa Tengah,2005,1083503
+Indonesia,Jawa Timur,2005,1817806
+Indonesia,Kalimantan Barat,2005,75831987
+Indonesia,Kalimantan Selatan,2005,14831288
+Indonesia,Kalimantan Tengah,2005,111040142
+Indonesia,Kalimantan Timur,2005,41322862
+Indonesia,Kalimantan Utara,2005,17333991
+Indonesia,Kepulauan Riau,2005,4433025
+Indonesia,Lampung,2005,4894483
+Indonesia,Maluku,2005,3959869
+Indonesia,Maluku Utara,2005,4830634
+Indonesia,Nusa Tenggara Barat,2005,1231203
+Indonesia,Nusa Tenggara Timur,2005,2857669
+Indonesia,Papua,2005,11143959
+Indonesia,Papua Barat,2005,5424824
+Indonesia,Riau,2005,395715394
+Indonesia,Sulawesi Barat,2005,7031651
+Indonesia,Sulawesi Selatan,2005,5762579
+Indonesia,Sulawesi Tengah,2005,13222894
+Indonesia,Sulawesi Tenggara,2005,11523630
+Indonesia,Sulawesi Utara,2005,2611837
+Indonesia,Sumatera Barat,2005,23670590
+Indonesia,Sumatera Selatan,2005,66628834
+Indonesia,Sumatera Utara,2005,42627564
+Indonesia,Yogyakarta,2005,7831
+Indonesia,Aceh,2006,13988635
+Indonesia,Bali,2006,321754
+Indonesia,Bangka Belitung,2006,10798481
+Indonesia,Banten,2006,1100063
+Indonesia,Bengkulu,2006,16047571
+Indonesia,Gorontalo,2006,3676075
+Indonesia,Jakarta Raya,2006,1459
+Indonesia,Jambi,2006,85081995
+Indonesia,Jawa Barat,2006,3262481
+Indonesia,Jawa Tengah,2006,2006530
+Indonesia,Jawa Timur,2006,3714555
+Indonesia,Kalimantan Barat,2006,94749795
+Indonesia,Kalimantan Selatan,2006,31303589
+Indonesia,Kalimantan Tengah,2006,149794767
+Indonesia,Kalimantan Timur,2006,78289445
+Indonesia,Kalimantan Utara,2006,18053734
+Indonesia,Kepulauan Riau,2006,3112665
+Indonesia,Lampung,2006,7643916
+Indonesia,Maluku,2006,8846487
+Indonesia,Maluku Utara,2006,12104120
+Indonesia,Nusa Tenggara Barat,2006,1440503
+Indonesia,Nusa Tenggara Timur,2006,3912432
+Indonesia,Papua,2006,15627671
+Indonesia,Papua Barat,2006,8237500
+Indonesia,Riau,2006,196058707
+Indonesia,Sulawesi Barat,2006,8512164
+Indonesia,Sulawesi Selatan,2006,9087336
+Indonesia,Sulawesi Tengah,2006,22151539
+Indonesia,Sulawesi Tenggara,2006,29406928
+Indonesia,Sulawesi Utara,2006,3592794
+Indonesia,Sumatera Barat,2006,24170413
+Indonesia,Sumatera Selatan,2006,147426290
+Indonesia,Sumatera Utara,2006,36527535
+Indonesia,Yogyakarta,2006,32859
+Indonesia,Aceh,2007,15340695
+Indonesia,Bali,2007,313829
+Indonesia,Bangka Belitung,2007,12067939
+Indonesia,Banten,2007,609739
+Indonesia,Bengkulu,2007,12553704
+Indonesia,Gorontalo,2007,2959463
+Indonesia,Jakarta Raya,2007,829
+Indonesia,Jambi,2007,95940008
+Indonesia,Jawa Barat,2007,2055467
+Indonesia,Jawa Tengah,2007,1806292
+Indonesia,Jawa Timur,2007,2925464
+Indonesia,Kalimantan Barat,2007,101581432
+Indonesia,Kalimantan Selatan,2007,17563385
+Indonesia,Kalimantan Tengah,2007,297790964
+Indonesia,Kalimantan Timur,2007,75686771
+Indonesia,Kalimantan Utara,2007,23144194
+Indonesia,Kepulauan Riau,2007,1488412
+Indonesia,Lampung,2007,8052846
+Indonesia,Maluku,2007,3123424
+Indonesia,Maluku Utara,2007,3997802
+Indonesia,Nusa Tenggara Barat,2007,1178791
+Indonesia,Nusa Tenggara Timur,2007,2690954
+Indonesia,Papua,2007,15948977
+Indonesia,Papua Barat,2007,5286438
+Indonesia,Riau,2007,228599258
+Indonesia,Sulawesi Barat,2007,3049818
+Indonesia,Sulawesi Selatan,2007,6134485
+Indonesia,Sulawesi Tengah,2007,14523592
+Indonesia,Sulawesi Tenggara,2007,6921768
+Indonesia,Sulawesi Utara,2007,3163103
+Indonesia,Sumatera Barat,2007,23727346
+Indonesia,Sumatera Selatan,2007,178119434
+Indonesia,Sumatera Utara,2007,28205549
+Indonesia,Yogyakarta,2007,9869
+Indonesia,Aceh,2008,25064284
+Indonesia,Bali,2008,146754
+Indonesia,Bangka Belitung,2008,11268030
+Indonesia,Banten,2008,566214
+Indonesia,Bengkulu,2008,15710097
+Indonesia,Gorontalo,2008,1196561
+Indonesia,Jakarta Raya,2008,121
+Indonesia,Jambi,2008,106047520
+Indonesia,Jawa Barat,2008,3437109
+Indonesia,Jawa Tengah,2008,1633271
+Indonesia,Jawa Timur,2008,2612917
+Indonesia,Kalimantan Barat,2008,139827257
+Indonesia,Kalimantan Selatan,2008,10909700
+Indonesia,Kalimantan Tengah,2008,143437889
+Indonesia,Kalimantan Timur,2008,66022672
+Indonesia,Kalimantan Utara,2008,32274240
+Indonesia,Kepulauan Riau,2008,4869748
+Indonesia,Lampung,2008,9053481
+Indonesia,Maluku,2008,1998723
+Indonesia,Maluku Utara,2008,3728255
+Indonesia,Nusa Tenggara Barat,2008,1513090
+Indonesia,Nusa Tenggara Timur,2008,2405334
+Indonesia,Papua,2008,11485626
+Indonesia,Papua Barat,2008,6256341
+Indonesia,Riau,2008,197402205
+Indonesia,Sulawesi Barat,2008,8775492
+Indonesia,Sulawesi Selatan,2008,4790419
+Indonesia,Sulawesi Tengah,2008,11860971
+Indonesia,Sulawesi Tenggara,2008,5801600
+Indonesia,Sulawesi Utara,2008,1175580
+Indonesia,Sumatera Barat,2008,25389625
+Indonesia,Sumatera Selatan,2008,157903867
+Indonesia,Sumatera Utara,2008,39386855
+Indonesia,Yogyakarta,2008,14559
+Indonesia,Aceh,2009,45217974
+Indonesia,Bali,2009,233065
+Indonesia,Bangka Belitung,2009,33562163
+Indonesia,Banten,2009,1710038
+Indonesia,Bengkulu,2009,13434508
+Indonesia,Gorontalo,2009,7320825
+Indonesia,Jakarta Raya,2009,38
+Indonesia,Jambi,2009,100421990
+Indonesia,Jawa Barat,2009,1872114
+Indonesia,Jawa Tengah,2009,1921968
+Indonesia,Jawa Timur,2009,2737810
+Indonesia,Kalimantan Barat,2009,223813269
+Indonesia,Kalimantan Selatan,2009,37657405
+Indonesia,Kalimantan Tengah,2009,147606996
+Indonesia,Kalimantan Timur,2009,133035344
+Indonesia,Kalimantan Utara,2009,42095826
+Indonesia,Kepulauan Riau,2009,2977153
+Indonesia,Lampung,2009,11970029
+Indonesia,Maluku,2009,9533705
+Indonesia,Maluku Utara,2009,10163009
+Indonesia,Nusa Tenggara Barat,2009,1102824
+Indonesia,Nusa Tenggara Timur,2009,3240200
+Indonesia,Papua,2009,16349645
+Indonesia,Papua Barat,2009,11070826
+Indonesia,Riau,2009,242119894
+Indonesia,Sulawesi Barat,2009,8449036
+Indonesia,Sulawesi Selatan,2009,14183849
+Indonesia,Sulawesi Tengah,2009,36242027
+Indonesia,Sulawesi Tenggara,2009,20034585
+Indonesia,Sulawesi Utara,2009,5096525
+Indonesia,Sumatera Barat,2009,29507271
+Indonesia,Sumatera Selatan,2009,154510886
+Indonesia,Sumatera Utara,2009,70759141
+Indonesia,Yogyakarta,2009,13756
+Indonesia,Aceh,2010,25823165
+Indonesia,Bali,2010,125429
+Indonesia,Bangka Belitung,2010,12415453
+Indonesia,Banten,2010,988147
+Indonesia,Bengkulu,2010,11305860
+Indonesia,Gorontalo,2010,1043075
+Indonesia,Jakarta Raya,2010,708
+Indonesia,Jambi,2010,27200777
+Indonesia,Jawa Barat,2010,1759056
+Indonesia,Jawa Tengah,2010,853020
+Indonesia,Jawa Timur,2010,1087266
+Indonesia,Kalimantan Barat,2010,117659037
+Indonesia,Kalimantan Selatan,2010,16560594
+Indonesia,Kalimantan Tengah,2010,108367346
+Indonesia,Kalimantan Timur,2010,73571961
+Indonesia,Kalimantan Utara,2010,24558840
+Indonesia,Kepulauan Riau,2010,2715516
+Indonesia,Lampung,2010,7302674
+Indonesia,Maluku,2010,3289308
+Indonesia,Maluku Utara,2010,4716493
+Indonesia,Nusa Tenggara Barat,2010,710645
+Indonesia,Nusa Tenggara Timur,2010,1016790
+Indonesia,Papua,2010,18817224
+Indonesia,Papua Barat,2010,9360340
+Indonesia,Riau,2010,385832945
+Indonesia,Sulawesi Barat,2010,5238520
+Indonesia,Sulawesi Selatan,2010,5207823
+Indonesia,Sulawesi Tengah,2010,15709185
+Indonesia,Sulawesi Tenggara,2010,5484272
+Indonesia,Sulawesi Utara,2010,1486532
+Indonesia,Sumatera Barat,2010,16018003
+Indonesia,Sumatera Selatan,2010,104563949
+Indonesia,Sumatera Utara,2010,47821471
+Indonesia,Yogyakarta,2010,97483
+Indonesia,Aceh,2011,31597160
+Indonesia,Bali,2011,133352
+Indonesia,Bangka Belitung,2011,17055788
+Indonesia,Banten,2011,1381622
+Indonesia,Bengkulu,2011,18175346
+Indonesia,Gorontalo,2011,2010062
+Indonesia,Jakarta Raya,2011,900
+Indonesia,Jambi,2011,35909179
+Indonesia,Jawa Barat,2011,3489625
+Indonesia,Jawa Tengah,2011,2774321
+Indonesia,Jawa Timur,2011,3659473
+Indonesia,Kalimantan Barat,2011,216809969
+Indonesia,Kalimantan Selatan,2011,30134308
+Indonesia,Kalimantan Tengah,2011,101768873
+Indonesia,Kalimantan Timur,2011,128428658
+Indonesia,Kalimantan Utara,2011,38265654
+Indonesia,Kepulauan Riau,2011,4009111
+Indonesia,Lampung,2011,8805755
+Indonesia,Maluku,2011,6982289
+Indonesia,Maluku Utara,2011,4368336
+Indonesia,Nusa Tenggara Barat,2011,1282945
+Indonesia,Nusa Tenggara Timur,2011,4094393
+Indonesia,Papua,2011,18498488
+Indonesia,Papua Barat,2011,9945599
+Indonesia,Riau,2011,315050060
+Indonesia,Sulawesi Barat,2011,9430128
+Indonesia,Sulawesi Selatan,2011,9018976
+Indonesia,Sulawesi Tengah,2011,18784383
+Indonesia,Sulawesi Tenggara,2011,14990491
+Indonesia,Sulawesi Utara,2011,2254010
+Indonesia,Sumatera Barat,2011,31102643
+Indonesia,Sumatera Selatan,2011,111368140
+Indonesia,Sumatera Utara,2011,55654495
+Indonesia,Yogyakarta,2011,112310
+Indonesia,Aceh,2012,32099924
+Indonesia,Bali,2012,452367
+Indonesia,Bangka Belitung,2012,21501243
+Indonesia,Banten,2012,2157268
+Indonesia,Bengkulu,2012,20791068
+Indonesia,Gorontalo,2012,2876982
+Indonesia,Jakarta Raya,2012,265
+Indonesia,Jambi,2012,124023198
+Indonesia,Jawa Barat,2012,2492398
+Indonesia,Jawa Tengah,2012,1595834
+Indonesia,Jawa Timur,2012,5404458
+Indonesia,Kalimantan Barat,2012,253407152
+Indonesia,Kalimantan Selatan,2012,48105956
+Indonesia,Kalimantan Tengah,2012,163416568
+Indonesia,Kalimantan Timur,2012,185870232
+Indonesia,Kalimantan Utara,2012,57108557
+Indonesia,Kepulauan Riau,2012,5602929
+Indonesia,Lampung,2012,16423595
+Indonesia,Maluku,2012,8443803
+Indonesia,Maluku Utara,2012,6845759
+Indonesia,Nusa Tenggara Barat,2012,1897617
+Indonesia,Nusa Tenggara Timur,2012,2736808
+Indonesia,Papua,2012,40424383
+Indonesia,Papua Barat,2012,10679776
+Indonesia,Riau,2012,367387955
+Indonesia,Sulawesi Barat,2012,9489968
+Indonesia,Sulawesi Selatan,2012,10589612
+Indonesia,Sulawesi Tengah,2012,27845499
+Indonesia,Sulawesi Tenggara,2012,15511275
+Indonesia,Sulawesi Utara,2012,1855880
+Indonesia,Sumatera Barat,2012,28385892
+Indonesia,Sumatera Selatan,2012,289753038
+Indonesia,Sumatera Utara,2012,47063375
+Indonesia,Yogyakarta,2012,30817
+Indonesia,Aceh,2013,24444757
+Indonesia,Bali,2013,204281
+Indonesia,Bangka Belitung,2013,9687151
+Indonesia,Banten,2013,1105306
+Indonesia,Bengkulu,2013,9499255
+Indonesia,Gorontalo,2013,4887442
+Indonesia,Jakarta Raya,2013,128
+Indonesia,Jambi,2013,53119994
+Indonesia,Jawa Barat,2013,1594832
+Indonesia,Jawa Tengah,2013,713362
+Indonesia,Jawa Timur,2013,1621198
+Indonesia,Kalimantan Barat,2013,166629012
+Indonesia,Kalimantan Selatan,2013,24351912
+Indonesia,Kalimantan Tengah,2013,76472112
+Indonesia,Kalimantan Timur,2013,106224194
+Indonesia,Kalimantan Utara,2013,30809769
+Indonesia,Kepulauan Riau,2013,2937730
+Indonesia,Lampung,2013,2884743
+Indonesia,Maluku,2013,3357380
+Indonesia,Maluku Utara,2013,5359796
+Indonesia,Nusa Tenggara Barat,2013,809878
+Indonesia,Nusa Tenggara Timur,2013,998397
+Indonesia,Papua,2013,34278328
+Indonesia,Papua Barat,2013,6568747
+Indonesia,Riau,2013,149930190
+Indonesia,Sulawesi Barat,2013,5495580
+Indonesia,Sulawesi Selatan,2013,5645549
+Indonesia,Sulawesi Tengah,2013,21368032
+Indonesia,Sulawesi Tenggara,2013,10225910
+Indonesia,Sulawesi Utara,2013,1211736
+Indonesia,Sumatera Barat,2013,15901145
+Indonesia,Sumatera Selatan,2013,81654614
+Indonesia,Sumatera Utara,2013,24810513
+Indonesia,Yogyakarta,2013,13322
+Indonesia,Aceh,2014,36918756
+Indonesia,Bali,2014,509149
+Indonesia,Bangka Belitung,2014,22295784
+Indonesia,Banten,2014,1398744
+Indonesia,Bengkulu,2014,14016343
+Indonesia,Gorontalo,2014,8003180
+Indonesia,Jakarta Raya,2014,0
+Indonesia,Jambi,2014,57553290
+Indonesia,Jawa Barat,2014,2345990
+Indonesia,Jawa Tengah,2014,1794516
+Indonesia,Jawa Timur,2014,4130280
+Indonesia,Kalimantan Barat,2014,225347421
+Indonesia,Kalimantan Selatan,2014,45239740
+Indonesia,Kalimantan Tengah,2014,147714856
+Indonesia,Kalimantan Timur,2014,148531847
+Indonesia,Kalimantan Utara,2014,55668989
+Indonesia,Kepulauan Riau,2014,10754396
+Indonesia,Lampung,2014,6500739
+Indonesia,Maluku,2014,10198376
+Indonesia,Maluku Utara,2014,14133567
+Indonesia,Nusa Tenggara Barat,2014,3765719
+Indonesia,Nusa Tenggara Timur,2014,4306143
+Indonesia,Papua,2014,49572204
+Indonesia,Papua Barat,2014,14617224
+Indonesia,Riau,2014,289110623
+Indonesia,Sulawesi Barat,2014,9439967
+Indonesia,Sulawesi Selatan,2014,14111180
+Indonesia,Sulawesi Tengah,2014,32080700
+Indonesia,Sulawesi Tenggara,2014,25373740
+Indonesia,Sulawesi Utara,2014,4867275
+Indonesia,Sumatera Barat,2014,19265804
+Indonesia,Sumatera Selatan,2014,115740447
+Indonesia,Sumatera Utara,2014,44352975
+Indonesia,Yogyakarta,2014,29299
+Indonesia,Aceh,2015,20495661
+Indonesia,Bali,2015,76700
+Indonesia,Bangka Belitung,2015,22759615
+Indonesia,Banten,2015,1649041
+Indonesia,Bengkulu,2015,14404810
+Indonesia,Gorontalo,2015,9465974
+Indonesia,Jakarta Raya,2015,59
+Indonesia,Jambi,2015,43249343
+Indonesia,Jawa Barat,2015,2152615
+Indonesia,Jawa Tengah,2015,1131362
+Indonesia,Jawa Timur,2015,1743052
+Indonesia,Kalimantan Barat,2015,205727988
+Indonesia,Kalimantan Selatan,2015,53514625
+Indonesia,Kalimantan Tengah,2015,176386775
+Indonesia,Kalimantan Timur,2015,129620041
+Indonesia,Kalimantan Utara,2015,47974313
+Indonesia,Kepulauan Riau,2015,3247917
+Indonesia,Lampung,2015,8275125
+Indonesia,Maluku,2015,29744780
+Indonesia,Maluku Utara,2015,32259683
+Indonesia,Nusa Tenggara Barat,2015,2382673
+Indonesia,Nusa Tenggara Timur,2015,3515103
+Indonesia,Papua,2015,65229132
+Indonesia,Papua Barat,2015,36594061
+Indonesia,Riau,2015,67240188
+Indonesia,Sulawesi Barat,2015,9243434
+Indonesia,Sulawesi Selatan,2015,18645019
+Indonesia,Sulawesi Tengah,2015,57554215
+Indonesia,Sulawesi Tenggara,2015,28617745
+Indonesia,Sulawesi Utara,2015,10897491
+Indonesia,Sumatera Barat,2015,14461279
+Indonesia,Sumatera Selatan,2015,140654094
+Indonesia,Sumatera Utara,2015,27508224
+Indonesia,Yogyakarta,2015,22203
+Indonesia,Aceh,2016,29716299
+Indonesia,Bali,2016,96564
+Indonesia,Bangka Belitung,2016,37453860
+Indonesia,Banten,2016,1165514
+Indonesia,Bengkulu,2016,17040945
+Indonesia,Gorontalo,2016,7379686
+Indonesia,Jakarta Raya,2016,0
+Indonesia,Jambi,2016,134517562
+Indonesia,Jawa Barat,2016,2326849
+Indonesia,Jawa Tengah,2016,1487659
+Indonesia,Jawa Timur,2016,1961166
+Indonesia,Kalimantan Barat,2016,185486999
+Indonesia,Kalimantan Selatan,2016,43354957
+Indonesia,Kalimantan Tengah,2016,495155592
+Indonesia,Kalimantan Timur,2016,201137810
+Indonesia,Kalimantan Utara,2016,28443432
+Indonesia,Kepulauan Riau,2016,6720812
+Indonesia,Lampung,2016,9918759
+Indonesia,Maluku,2016,17226121
+Indonesia,Maluku Utara,2016,16728752
+Indonesia,Nusa Tenggara Barat,2016,2187284
+Indonesia,Nusa Tenggara Timur,2016,3435051
+Indonesia,Papua,2016,60248910
+Indonesia,Papua Barat,2016,20298043
+Indonesia,Riau,2016,99615055
+Indonesia,Sulawesi Barat,2016,9073942
+Indonesia,Sulawesi Selatan,2016,20136317
+Indonesia,Sulawesi Tengah,2016,41351849
+Indonesia,Sulawesi Tenggara,2016,25375744
+Indonesia,Sulawesi Utara,2016,5876159
+Indonesia,Sumatera Barat,2016,25274452
+Indonesia,Sumatera Selatan,2016,259898327
+Indonesia,Sumatera Utara,2016,39254197
+Indonesia,Yogyakarta,2016,35212
+Indonesia,Aceh,2017,27096289
+Indonesia,Bali,2017,155909
+Indonesia,Bangka Belitung,2017,13000753
+Indonesia,Banten,2017,2111142
+Indonesia,Bengkulu,2017,19057861
+Indonesia,Gorontalo,2017,5234779
+Indonesia,Jakarta Raya,2017,459
+Indonesia,Jambi,2017,58927048
+Indonesia,Jawa Barat,2017,3403260
+Indonesia,Jawa Tengah,2017,2260496
+Indonesia,Jawa Timur,2017,2844597
+Indonesia,Kalimantan Barat,2017,110996176
+Indonesia,Kalimantan Selatan,2017,22791181
+Indonesia,Kalimantan Tengah,2017,69685579
+Indonesia,Kalimantan Timur,2017,93990243
+Indonesia,Kalimantan Utara,2017,25389196
+Indonesia,Kepulauan Riau,2017,4147223
+Indonesia,Lampung,2017,7209609
+Indonesia,Maluku,2017,5205784
+Indonesia,Maluku Utara,2017,8173332
+Indonesia,Nusa Tenggara Barat,2017,3409763
+Indonesia,Nusa Tenggara Timur,2017,4927387
+Indonesia,Papua,2017,37163762
+Indonesia,Papua Barat,2017,11979540
+Indonesia,Riau,2017,71514497
+Indonesia,Sulawesi Barat,2017,8372645
+Indonesia,Sulawesi Selatan,2017,15644196
+Indonesia,Sulawesi Tengah,2017,25273899
+Indonesia,Sulawesi Tenggara,2017,18371326
+Indonesia,Sulawesi Utara,2017,4203060
+Indonesia,Sumatera Barat,2017,32965737
+Indonesia,Sumatera Selatan,2017,93596415
+Indonesia,Sumatera Utara,2017,34494313
+Indonesia,Yogyakarta,2017,59093
+Indonesia,Aceh,2018,27962456
+Indonesia,Bali,2018,160608
+Indonesia,Bangka Belitung,2018,10346117
+Indonesia,Banten,2018,2126015
+Indonesia,Bengkulu,2018,17475093
+Indonesia,Gorontalo,2018,5434734
+Indonesia,Jakarta Raya,2018,0
+Indonesia,Jambi,2018,45891675
+Indonesia,Jawa Barat,2018,2731172
+Indonesia,Jawa Tengah,2018,1687871
+Indonesia,Jawa Timur,2018,2697431
+Indonesia,Kalimantan Barat,2018,98167253
+Indonesia,Kalimantan Selatan,2018,22308068
+Indonesia,Kalimantan Tengah,2018,77290523
+Indonesia,Kalimantan Timur,2018,106334364
+Indonesia,Kalimantan Utara,2018,27563305
+Indonesia,Kepulauan Riau,2018,3307800
+Indonesia,Lampung,2018,6048312
+Indonesia,Maluku,2018,7896204
+Indonesia,Maluku Utara,2018,9450256
+Indonesia,Nusa Tenggara Barat,2018,4520196
+Indonesia,Nusa Tenggara Timur,2018,2513686
+Indonesia,Papua,2018,25271638
+Indonesia,Papua Barat,2018,15874932
+Indonesia,Riau,2018,53064102
+Indonesia,Sulawesi Barat,2018,8645005
+Indonesia,Sulawesi Selatan,2018,12377528
+Indonesia,Sulawesi Tengah,2018,25371329
+Indonesia,Sulawesi Tenggara,2018,15932135
+Indonesia,Sulawesi Utara,2018,5437316
+Indonesia,Sumatera Barat,2018,22558073
+Indonesia,Sumatera Selatan,2018,79977142
+Indonesia,Sumatera Utara,2018,30288871
+Indonesia,Yogyakarta,2018,69539
+Indonesia,Aceh,2019,17827200
+Indonesia,Bali,2019,430049
+Indonesia,Bangka Belitung,2019,10782181
+Indonesia,Banten,2019,2872952
+Indonesia,Bengkulu,2019,12405984
+Indonesia,Gorontalo,2019,7253711
+Indonesia,Jakarta Raya,2019,0
+Indonesia,Jambi,2019,44534783
+Indonesia,Jawa Barat,2019,4253331
+Indonesia,Jawa Tengah,2019,1817129
+Indonesia,Jawa Timur,2019,3169348
+Indonesia,Kalimantan Barat,2019,92649408
+Indonesia,Kalimantan Selatan,2019,26464933
+Indonesia,Kalimantan Tengah,2019,88029150
+Indonesia,Kalimantan Timur,2019,97253433
+Indonesia,Kalimantan Utara,2019,21489567
+Indonesia,Kepulauan Riau,2019,4601650
+Indonesia,Lampung,2019,7389107
+Indonesia,Maluku,2019,12074296
+Indonesia,Maluku Utara,2019,10838621
+Indonesia,Nusa Tenggara Barat,2019,4841510
+Indonesia,Nusa Tenggara Timur,2019,3894210
+Indonesia,Papua,2019,25233421
+Indonesia,Papua Barat,2019,12783305
+Indonesia,Riau,2019,52352899
+Indonesia,Sulawesi Barat,2019,8485704
+Indonesia,Sulawesi Selatan,2019,14117374
+Indonesia,Sulawesi Tengah,2019,30666808
+Indonesia,Sulawesi Tenggara,2019,23664448
+Indonesia,Sulawesi Utara,2019,6494344
+Indonesia,Sumatera Barat,2019,17571084
+Indonesia,Sumatera Selatan,2019,65511821
+Indonesia,Sumatera Utara,2019,22807030
+Indonesia,Yogyakarta,2019,37250
+Indonesia,Aceh,2020,18680978
+Indonesia,Bali,2020,109000
+Indonesia,Bangka Belitung,2020,12084016
+Indonesia,Banten,2020,1277439
+Indonesia,Bengkulu,2020,11463229
+Indonesia,Gorontalo,2020,2158524
+Indonesia,Jakarta Raya,2020,45
+Indonesia,Jambi,2020,58106700
+Indonesia,Jawa Barat,2020,2188142
+Indonesia,Jawa Tengah,2020,1839563
+Indonesia,Jawa Timur,2020,3066674
+Indonesia,Kalimantan Barat,2020,77963425
+Indonesia,Kalimantan Selatan,2020,12913073
+Indonesia,Kalimantan Tengah,2020,61573471
+Indonesia,Kalimantan Timur,2020,67124186
+Indonesia,Kalimantan Utara,2020,17500185
+Indonesia,Kepulauan Riau,2020,4829351
+Indonesia,Lampung,2020,4961814
+Indonesia,Maluku,2020,3867116
+Indonesia,Maluku Utara,2020,5738418
+Indonesia,Nusa Tenggara Barat,2020,3740720
+Indonesia,Nusa Tenggara Timur,2020,3318588
+Indonesia,Papua,2020,20560015
+Indonesia,Papua Barat,2020,11722628
+Indonesia,Riau,2020,44465965
+Indonesia,Sulawesi Barat,2020,5750514
+Indonesia,Sulawesi Selatan,2020,9248578
+Indonesia,Sulawesi Tengah,2020,18307535
+Indonesia,Sulawesi Tenggara,2020,13116264
+Indonesia,Sulawesi Utara,2020,2248756
+Indonesia,Sumatera Barat,2020,14276533
+Indonesia,Sumatera Selatan,2020,68998038
+Indonesia,Sumatera Utara,2020,21554946
+Indonesia,Yogyakarta,2020,30718
+Indonesia,Aceh,2021,19068923
+Indonesia,Bali,2021,125158
+Indonesia,Bangka Belitung,2021,15964701
+Indonesia,Banten,2021,1186100
+Indonesia,Bengkulu,2021,9931431
+Indonesia,Gorontalo,2021,1508724
+Indonesia,Jakarta Raya,2021,0
+Indonesia,Jambi,2021,44650436
+Indonesia,Jawa Barat,2021,1711366
+Indonesia,Jawa Tengah,2021,1508892
+Indonesia,Jawa Timur,2021,2346546
+Indonesia,Kalimantan Barat,2021,68720810
+Indonesia,Kalimantan Selatan,2021,12733352
+Indonesia,Kalimantan Tengah,2021,33575512
+Indonesia,Kalimantan Timur,2021,53374318
+Indonesia,Kalimantan Utara,2021,14424180
+Indonesia,Kepulauan Riau,2021,2402002
+Indonesia,Lampung,2021,4750622
+Indonesia,Maluku,2021,2650184
+Indonesia,Maluku Utara,2021,4723748
+Indonesia,Nusa Tenggara Barat,2021,2861007
+Indonesia,Nusa Tenggara Timur,2021,5193341
+Indonesia,Papua,2021,18203389
+Indonesia,Papua Barat,2021,9246043
+Indonesia,Riau,2021,50236760
+Indonesia,Sulawesi Barat,2021,6826750
+Indonesia,Sulawesi Selatan,2021,6894175
+Indonesia,Sulawesi Tengah,2021,15677078
+Indonesia,Sulawesi Tenggara,2021,8773831
+Indonesia,Sulawesi Utara,2021,2169260
+Indonesia,Sumatera Barat,2021,19032219
+Indonesia,Sumatera Selatan,2021,50519754
+Indonesia,Sumatera Utara,2021,27154840
+Indonesia,Yogyakarta,2021,40447
+Indonesia,Aceh,2022,17055238
+Indonesia,Bali,2022,168311
+Indonesia,Bangka Belitung,2022,16780277
+Indonesia,Banten,2022,933593
+Indonesia,Bengkulu,2022,16740501
+Indonesia,Gorontalo,2022,1952634
+Indonesia,Jakarta Raya,2022,0
+Indonesia,Jambi,2022,49091033
+Indonesia,Jawa Barat,2022,1692424
+Indonesia,Jawa Tengah,2022,1514714
+Indonesia,Jawa Timur,2022,1973356
+Indonesia,Kalimantan Barat,2022,85116077
+Indonesia,Kalimantan Selatan,2022,9615396
+Indonesia,Kalimantan Tengah,2022,46606173
+Indonesia,Kalimantan Timur,2022,42488726
+Indonesia,Kalimantan Utara,2022,13142975
+Indonesia,Kepulauan Riau,2022,1575187
+Indonesia,Lampung,2022,4224198
+Indonesia,Maluku,2022,3606516
+Indonesia,Maluku Utara,2022,4982113
+Indonesia,Nusa Tenggara Barat,2022,3354272
+Indonesia,Nusa Tenggara Timur,2022,3661910
+Indonesia,Papua,2022,19035271
+Indonesia,Papua Barat,2022,10923165
+Indonesia,Riau,2022,46079203
+Indonesia,Sulawesi Barat,2022,7014744
+Indonesia,Sulawesi Selatan,2022,10665253
+Indonesia,Sulawesi Tengah,2022,17192142
+Indonesia,Sulawesi Tenggara,2022,9507494
+Indonesia,Sulawesi Utara,2022,2100609
+Indonesia,Sumatera Barat,2022,21288243
+Indonesia,Sumatera Selatan,2022,54143835
+Indonesia,Sumatera Utara,2022,25172582
+Indonesia,Yogyakarta,2022,20073
+Indonesia,Aceh,2023,23414213
+Indonesia,Bali,2023,366011
+Indonesia,Bangka Belitung,2023,24625191
+Indonesia,Banten,2023,2396861
+Indonesia,Bengkulu,2023,19359919
+Indonesia,Gorontalo,2023,5612015
+Indonesia,Jakarta Raya,2023,156
+Indonesia,Jambi,2023,58733667
+Indonesia,Jawa Barat,2023,3643610
+Indonesia,Jawa Tengah,2023,3315097
+Indonesia,Jawa Timur,2023,4285779
+Indonesia,Kalimantan Barat,2023,127196178
+Indonesia,Kalimantan Selatan,2023,30103329
+Indonesia,Kalimantan Tengah,2023,92640009
+Indonesia,Kalimantan Timur,2023,90370289
+Indonesia,Kalimantan Utara,2023,19430027
+Indonesia,Kepulauan Riau,2023,1881320
+Indonesia,Lampung,2023,13115073
+Indonesia,Maluku,2023,9325355
+Indonesia,Maluku Utara,2023,9342861
+Indonesia,Nusa Tenggara Barat,2023,5845193
+Indonesia,Nusa Tenggara Timur,2023,4421981
+Indonesia,Papua,2023,15892855
+Indonesia,Papua Barat,2023,13069511
+Indonesia,Riau,2023,54944384
+Indonesia,Sulawesi Barat,2023,9946114
+Indonesia,Sulawesi Selatan,2023,16886210
+Indonesia,Sulawesi Tengah,2023,29893987
+Indonesia,Sulawesi Tenggara,2023,23240600
+Indonesia,Sulawesi Utara,2023,4503589
+Indonesia,Sumatera Barat,2023,20490443
+Indonesia,Sumatera Selatan,2023,83248155
+Indonesia,Sumatera Utara,2023,31726408
+Indonesia,Yogyakarta,2023,56665
+Indonesia,Aceh,2024,28288304
+Indonesia,Bali,2024,110595
+Indonesia,Bangka Belitung,2024,15442591
+Indonesia,Banten,2024,2161760
+Indonesia,Bengkulu,2024,15149284
+Indonesia,Gorontalo,2024,3433042
+Indonesia,Jakarta Raya,2024,282
+Indonesia,Jambi,2024,56862010
+Indonesia,Jawa Barat,2024,2845516
+Indonesia,Jawa Tengah,2024,1992207
+Indonesia,Jawa Timur,2024,2880290
+Indonesia,Kalimantan Barat,2024,110129497
+Indonesia,Kalimantan Selatan,2024,16303508
+Indonesia,Kalimantan Tengah,2024,77326852
+Indonesia,Kalimantan Timur,2024,74033620
+Indonesia,Kalimantan Utara,2024,14558674
+Indonesia,Kepulauan Riau,2024,1479503
+Indonesia,Lampung,2024,8437012
+Indonesia,Maluku,2024,3610403
+Indonesia,Maluku Utara,2024,5739763
+Indonesia,Nusa Tenggara Barat,2024,3781648
+Indonesia,Nusa Tenggara Timur,2024,3384880
+Indonesia,Papua,2024,15504031
+Indonesia,Papua Barat,2024,9605649
+Indonesia,Riau,2024,49142543
+Indonesia,Sulawesi Barat,2024,6104168
+Indonesia,Sulawesi Selatan,2024,6429375
+Indonesia,Sulawesi Tengah,2024,20356703
+Indonesia,Sulawesi Tenggara,2024,11911870
+Indonesia,Sulawesi Utara,2024,2640778
+Indonesia,Sumatera Barat,2024,18881753
+Indonesia,Sumatera Selatan,2024,70685099
+Indonesia,Sumatera Utara,2024,31333095
+Indonesia,Yogyakarta,2024,62474
+Indonesia,Aceh,2025,38134004
+Indonesia,Bali,2025,208816
+Indonesia,Bangka Belitung,2025,16518284
+Indonesia,Banten,2025,1563343
+Indonesia,Bengkulu,2025,19653388
+Indonesia,Gorontalo,2025,4354999
+Indonesia,Jakarta Raya,2025,120
+Indonesia,Jambi,2025,48663566
+Indonesia,Jawa Barat,2025,2150998
+Indonesia,Jawa Tengah,2025,1727088
+Indonesia,Jawa Timur,2025,2707027
+Indonesia,Kalimantan Barat,2025,93407472
+Indonesia,Kalimantan Selatan,2025,16069260
+Indonesia,Kalimantan Tengah,2025,65526333
+Indonesia,Kalimantan Timur,2025,84131060
+Indonesia,Kalimantan Utara,2025,16137284
+Indonesia,Kepulauan Riau,2025,2477458
+Indonesia,Lampung,2025,8970321
+Indonesia,Maluku,2025,2968855
+Indonesia,Maluku Utara,2025,7294489
+Indonesia,Nusa Tenggara Barat,2025,2291204
+Indonesia,Nusa Tenggara Timur,2025,3490842
+Indonesia,Papua,2025,31026936
+Indonesia,Papua Barat,2025,12372964
+Indonesia,Riau,2025,46551305
+Indonesia,Sulawesi Barat,2025,8222912
+Indonesia,Sulawesi Selatan,2025,10011954
+Indonesia,Sulawesi Tengah,2025,25155896
+Indonesia,Sulawesi Tenggara,2025,16731359
+Indonesia,Sulawesi Utara,2025,2196192
+Indonesia,Sumatera Barat,2025,28512594
+Indonesia,Sumatera Selatan,2025,72809476
+Indonesia,Sumatera Utara,2025,43504629
+Indonesia,Yogyakarta,2025,17695

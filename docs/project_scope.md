@@ -117,8 +117,8 @@ Sources:
 |---|---|---|
 | Project Scope | Define project objectives and business questions | ✅ Done |
 | Data Collection | Collect datasets from Global Forest Watch and NASA FIRMS | ✅ Done |
+| Data Cleaning | Clean and validate environmental datasets | ✅ Done |
 | Data Preparation | Merge and organize environmental datasets using Python | ✅ Done |
-| Data Cleaning | Clean and validate environmental datasets | ✅ Done  |
 | Database Schema & ERD | Build schema and entity relationship diagram | ⬜ Pending |
 | Deforestation Analysis | Analyze forest loss trends and patterns | ⬜ Pending |
 | Wildfire Analysis | Analyze wildfire hotspot activity | ⬜ Pending |

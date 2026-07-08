@@ -1,4 +1,4 @@
-country,year,tree_cover_loss_ha_x,tree_cover_loss_ha_y,gross_emissions_Mg_CO2e
+country,year,tc_loss_ha,primary_loss_ha,gross_emissions_Mg_CO2e
 Indonesia,2002,855270,271745,650458057
 Indonesia,2003,544812,248436,444613985
 Indonesia,2004,1289035,479153,1011614959

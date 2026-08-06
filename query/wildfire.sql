@@ -67,3 +67,33 @@ SELECT
 	COUNT(*) AS total_satellite
 FROM wildfire
 GROUP BY satellite;
+
+/** Which months consistently record the highest wildfire activity? **/
+SELECT
+	month,
+	COUNT(*) AS hotspot_count
+FROM wildfire
+GROUP BY month
+ORDER BY month;
+
+----
+WITH monthly_tren AS (
+	SELECT 
+		year,
+		month,
+		COUNT(*) AS hotspot_count,
+		ROW_NUMBER() OVER (
+			PARTITION BY year
+			ORDER BY COUNT(*) DESC
+		) AS monthly_rank
+	FROM wildfire
+	GROUP BY year, month
+)
+
+SELECT
+	year,
+	month,
+	monthly_rank
+FROM monthly_tren
+WHERE monthly_rank <= 3
+ORDER BY year;

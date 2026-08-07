@@ -22,8 +22,7 @@ ORDER BY total_loss;
 /** Top 3 drivers each year **/
 WITH rank_driver AS(
 	SELECT 
-		year, 
-		province,
+		year,
 		driver,
 		SUM(tc_loss_ha) AS total_loss,
 		ROW_NUMBER() OVER(
@@ -31,12 +30,11 @@ WITH rank_driver AS(
 			ORDER BY SUM(tc_loss_ha) DESC
 		) AS no_rank
 	FROM subnational_drivers
-	GROUP BY year, province, driver
+	GROUP BY year, driver
 )
 
 SELECT
 	year,
-	province,
 	driver,
 	total_loss,
 	no_rank
@@ -45,3 +43,24 @@ WHERE no_rank <= 3
 ORDER BY year, no_rank;
 
 /** Top 3 drivers in each province **/
+WITH rank_province AS(
+	SELECT
+		province,
+		driver,
+		SUM(tc_loss_ha) AS total_loss,
+		ROW_NUMBER() OVER(
+			PARTITION BY province
+			ORDER BY SUM(tc_loss_ha) DESC
+		) AS pro_rank
+	FROM subnational_drivers
+	GROUP BY province, driver
+)
+
+SELECT
+	province,
+	driver,
+	total_loss,
+	pro_rank
+FROM rank_province
+WHERE pro_rank <=3
+ORDER BY province;

@@ -55,7 +55,7 @@ Sources:
 | Deforestation Analysis | Analysis of forest loss and primary forest loss trends |
 | Wildfire Analysis | Analysis of wildfire hotspot activity and fire severity |
 | Environmental Impact | Analysis of relationships between forest loss, wildfire activity, and carbon emissions |
-| Geographic Analysis | Province-level environmental hotspot analysis |
+| Geographic Analysis | Geographic analysis of forest loss at the provincial level and wildfire hotspot distribution across Indonesia |
 | Dashboard Visualization | Interactive environmental dashboard and storytelling |
 
 ---
@@ -119,10 +119,10 @@ Sources:
 | Data Collection | Collect datasets from Global Forest Watch and NASA FIRMS | ✅ Done |
 | Data Cleaning | Clean and validate environmental datasets | ✅ Done |
 | Data Preparation | Merge and organize environmental datasets using Python | ✅ Done |
-| Database Schema & ERD | Build schema and entity relationship diagram | ⬜ Pending |
-| Deforestation Analysis | Analyze forest loss trends and patterns | ⬜ Pending |
-| Wildfire Analysis | Analyze wildfire hotspot activity | ⬜ Pending |
-| Environmental Impact Analysis | Analyze relationships between datasets | ⬜ Pending |
+| Database Schema & ERD | Build schema and entity relationship diagram | ✅ Done |
+| Deforestation Analysis | Analyze forest loss trends and patterns | ✅ Done|
+| Wildfire Analysis | Analyze wildfire hotspot activity | ✅ Done |
+| Environmental Impact Analysis | Analyze relationships between datasets |✅ Done |
 | Power BI Dashboard | Build interactive environmental dashboard | ⬜ Pending |
 | Final Documentation | Create README with findings and conclusions | ⬜ Pending |
 

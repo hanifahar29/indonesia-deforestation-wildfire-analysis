@@ -35,7 +35,7 @@ SELECT
 	year,
 	primary_loss_ha
 FROM national_deforestation
-ORDER BY year ASC
+ORDER BY primary_loss_ha ASC
 LIMIT 1;
 
 /** Highest primary loss years **/
@@ -43,7 +43,7 @@ SELECT
 	year,
 	primary_loss_ha
 FROM national_deforestation
-ORDER BY year DESC
+ORDER BY primary_loss_ha DESC
 LIMIT 1;
 
 /** Primary Loss Trend **/

@@ -14,8 +14,6 @@ SELECT
 	year,
 	gross_emissions_mg_co2e
 FROM national_deforestation
-ORDER BY year;
-FROM national_deforestation
 ORDER BY gross_emissions_mg_co2e DESC
 LIMIT 5;
 
@@ -30,7 +28,21 @@ ORDER BY tc_loss_ha DESC;
 
 /** Wildfire vs Carbon emissions **/
 
-SELECT * FROM wildfire
+WITH yearly_wildfire AS(
+	SELECT
+		year,
+		COUNT(*) AS total_hotspot
+	FROM wildfire
+	GROUP BY year
+)
+SELECT
+	n.year,
+	n.gross_emissions_mg_co2e,
+	w.total_hotspot
+FROM national_deforestation n
+JOIN yearly_wildfire w
+	ON n.year = w.year
+ORDER BY w.total_hotspot DESC;
 
 /** Wildfire vs Forest loss **/
 WITH yearly_wildfire AS(
@@ -53,14 +65,19 @@ ORDER BY w.total_hotspot DESC;
 
 /** Wildfire - Forest loss correlation **/
 SELECT
-	CORR(total_hotspot, tc_loss_ha)
+	CORR(total_hotspot, tree_cover_loss_ha)
 FROM(
 	SELECT
+		w.province,
 		w.year,
 		COUNT(*) AS total_hotspot,
-		n.tc_loss_ha
+		p.tree_cover_loss_ha
 	FROM wildfire w
-	JOIN national_deforestation n
-		ON w.year = n.year
-	GROUP BY w.year, n.tc_loss_ha
+	JOIN province_deforestation p
+		ON w.year = p.year AND w.province = p.province
+	WHERE p.province IS NOT NULL
+	GROUP BY w.province, w.year, p.tree_cover_loss_ha
 )
+
+
+SELECT * FROM province_deforestation
